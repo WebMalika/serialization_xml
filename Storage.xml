@@ -1,0 +1,46 @@
+<Jewerly class_id="0" tracking_level="0" version="0">
+	<count>2</count>
+	<item_version>0</item_version>
+	<item class_id="2" class_name="Ring" tracking_level="1" version="0" object_id="_0">
+		<Product class_id="3" tracking_level="0" version="0">
+			<code>6572323</code>
+			<price>2.398987961e+01</price>
+		</Product>
+		<Jewerly class_id="1" tracking_level="1" version="0" object_id="_1">
+			<name>Призма</name>
+			<material>Золото</material>
+		</Jewerly>
+		<top class_id="4" tracking_level="1" version="0" object_id="_2">
+			<insertion>Изумруд</insertion>
+			<kast>Ободковая</kast>
+			<rant>Прямой</rant>
+			<onlay>Чеканная</onlay>
+		</top>
+		<shink class_id="5" tracking_level="1" version="0" object_id="_3">
+			<form>Прямоугольная</form>
+			<width>5.000000000e+00</width>
+			<thickness>3.000000000e+00</thickness>
+		</shink>
+	</item>
+	<item class_id_reference="2" object_id="_4">
+		<Product>
+			<code>л9998</code>
+			<price>2.120000000e+02</price>
+		</Product>
+		<Jewerly object_id="_5">
+			<name>кольцо</name>
+			<material>Золото</material>
+		</Jewerly>
+		<top class_id_reference="4" object_id="_6">
+			<insertion>Изумруд</insertion>
+			<kast>Ободковая</kast>
+			<rant>Прямой</rant>
+			<onlay>Со вставками</onlay>
+		</top>
+		<shink class_id_reference="5" object_id="_7">
+			<form>Овальная</form>
+			<width>3.000000000e+00</width>
+			<thickness>4.000000000e+00</thickness>
+		</shink>
+	</item>
+</Jewerly>
